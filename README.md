@@ -1,16 +1,28 @@
-## Hi there 👋
+### 👋 Hola, soy Johan Poveda
 
-<!--
-**maxtortecnoreparaciones/maxtortecnoreparaciones** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Desarrollador Python & Automatización** | Soluciones reales para negocios | Node.js · APIs · IA aplicada
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Stack
+
+```
+Python  ·  TypeScript  ·  JavaScript  ·  Django  ·  Next.js  ·  React
+Node.js ·  Electron   ·  PostgreSQL   ·  Docker  ·  Playwright ·  IA
+```
+
+### 📌 Proyectos destacados
+
+| Proyecto | Descripción |
+|----------|-------------|
+| [🦁 LionCore POS](https://github.com/maxtortecnoreparaciones/LionCore) | Sistema POS offline-first con React + TypeScript + Electron |
+| [🤖 saas-bot](https://github.com/maxtortecnoreparaciones/saas-bot) | Plataforma multi-tenant WhatsApp chatbot (Node.js + Django) |
+| [🏋️ PilatesApp](https://github.com/maxtortecnoreparaciones/pilatesapp) | Gestión de estudios de pilates (Django + Next.js) |
+| [🎯 AI Opportunity Hunter](https://github.com/maxtortecnoreparaciones/ai-opportunity-hunter) | Búsqueda automática de empleo con IA |
+| [🐍 Python Auto](https://github.com/maxtortecnoreparaciones/pythonauto) | Scripts de automatización en Python |
+
+### 📫 Contacto
+
+- 📧 [LinkedIn](https://linkedin.com/in/maxtortecnoreparaciones)
+- 💬 WhatsApp: 313 877 7115
+- 🌍 Bogotá, Colombia
