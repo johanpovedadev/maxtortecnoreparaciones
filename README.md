@@ -23,6 +23,6 @@ Node.js ·  Electron   ·  PostgreSQL   ·  Docker  ·  Playwright ·  IA
 
 ### 📫 Contacto
 
-- 📧 [LinkedIn](https://linkedin.com/in/maxtortecnoreparaciones)
+- 💼 [LinkedIn](https://www.linkedin.com/in/johan-poveda-788760263)
 - 💬 WhatsApp: 313 877 7115
 - 🌍 Bogotá, Colombia
